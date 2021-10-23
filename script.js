@@ -3,7 +3,7 @@ const linksSocialMedia = {
   github: 'giselle-ferreira',
   facebook: 'giselle.fs',
   instagram: 'giselle_ferrer',
-  linkedin: 'giselleferreiras'
+  linkedin: 'in/giselleferreiras'
 }
 
 //Function to change que social media links
