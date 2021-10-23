@@ -16,7 +16,7 @@
 <br>
 
 >## Website 💻
-+ [NLW Badge](https://todolist-vjs.netlify.app/)
++ [NLW Badge](https://nlw-badge-giselle.netlify.app/)
 
 <br>
 
