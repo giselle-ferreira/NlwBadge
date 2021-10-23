@@ -22,7 +22,8 @@
 
 >## Layout 🎥
 
-<img src="https://github.com/giselle-ferreira/Quiz-Seriados/blob/main/assets/Quiz-Seriados.gif" />
+<img src="https://github.com/giselle-ferreira/NlwBadge/blob/main/images/nlw-badge-giselle.png" />
+<img src="https://github.com/giselle-ferreira/NlwBadge/blob/main/images/nlw-giselle.gif" />
 
 >
 
