@@ -16,7 +16,7 @@
 <br>
 
 >## Website 💻
-+ [NLW Badge](https://nlw-badge-giselle.netlify.app/)
++ [NLW Badge - Giselle Ferreira](https://nlw-badge-giselle.netlify.app/)
 
 <br>
 
