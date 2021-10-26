@@ -1,4 +1,4 @@
-//Buildig the object
+//Building the object
 const linksSocialMedia = {
   github: 'giselle-ferreira',
   facebook: 'giselle.fs',
@@ -6,7 +6,7 @@ const linksSocialMedia = {
   linkedin: 'in/giselleferreiras'
 }
 
-//Function to change que social media links
+//Function to change the social media links
 function changeSocialMediaLinks() {
   for (let li of socialLinks.children) {
     const social = li.getAttribute('class')
@@ -33,3 +33,27 @@ function getGithubProfileInfos() {
 }
 
 getGithubProfileInfos() //don't forget to call the function ;)
+
+//Rocket flying / flying stars
+function stars() {
+  let count = 20
+  let scene = document.querySelector('.scene')
+  let i = 0
+  while (i < count) {
+    let star = document.createElement('i')
+    let x = Math.floor(Math.random() * window.innerWidth)
+
+    let duration = Math.random() * 1
+    let h = Math.random() * 100
+
+    star.style.left = x + 'px'
+    star.style.width = 1 + 'px'
+    star.style.height = 35 + h + 'px'
+    star.style.animationDuration = duration + 's'
+
+    scene.appendChild(star)
+    i++
+  }
+}
+
+stars()
