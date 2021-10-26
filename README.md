@@ -1,6 +1,7 @@
 ># NlwBadge
 
 + Virtual Badge created during the NLW HEAT workshop event at [Rocketseat](https://www.rocketseat.com.br/). 
++ The Challenge was to create a differente desktop version, so I added a few animations to it.
  
 <br>
 
